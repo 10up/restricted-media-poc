@@ -30,5 +30,6 @@
   "scripts": {
     "lint": "phpcs secure-media.php inc",
     "lint-fix": "phpcbf secure-media.php inc"
-  }
+  },
+  "abandoned": true
 }
